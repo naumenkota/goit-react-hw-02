@@ -1,0 +1,25 @@
+body {
+    font-family: 'Viaoda Libre', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+   
+}
+
+button{
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 0;
+       
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+    
+}
